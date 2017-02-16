@@ -1,0 +1,3 @@
+[submodule "slackbot"]
+	path = slackbot
+	url = https://github.com/alexpeattie/slackyoutube-slackbot
