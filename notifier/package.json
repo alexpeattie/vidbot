@@ -1,0 +1,23 @@
+{
+  "name": "slackyoutube-notifier",
+  "version": "1.0.0",
+  "description": "YouTube Slack notifier microservice",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Alex Peattie",
+  "license": "MIT",
+  "dependencies": {
+    "aws-serverless-express": "^2.1.3",
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "moment": "^2.17.1",
+    "request": "^2.79.0",
+    "xml2js": "^0.4.17"
+  },
+  "devDependencies": {
+    "claudia": "^2.7.0"
+  }
+}
