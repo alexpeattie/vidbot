@@ -10,7 +10,7 @@ Vidbot connects YouTube push notifications with your Slack team using a combinat
 ## Contents
 
   * [Installation](#installation)
-    * [Installing the subscriber and notifier microservices](#installing-the-subscriber-and-notifier microservices)
+    * [Installing the subscriber and notifier microservices](#installing-the-subscriber-and-notifier-microservices)
     * [Installing the Slack chatbot](#installing-the-slack-chatbot)
     * [Configuring the microservices](#configuring-the-microservices)
   * [Usage](#usage)
